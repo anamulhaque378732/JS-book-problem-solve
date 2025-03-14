@@ -24,4 +24,4 @@ const eachTimeCost1 = 75;
 const totalRice = 480;
 const eachDay = 4;
 const parMonth = 4 * 30;
-console.log(totalRice / eachDay, totalRice / parMonth);
+//console.log(totalRice / eachDay, totalRice / parMonth);
