@@ -4,5 +4,6 @@ if (xx > 20) {
 }
 
 const x =10;
+let name ="Anamul"
 
 
