@@ -14,6 +14,12 @@ let playTime = 5;
 playTime = 0;
 //console.log(age,pocketMoney,studyTime,friends,phonePrice,chairsCount,playTime);
 
+// <<<<<<< HEAD
 let name = "Anamul";
 name = "Haque";
 let city = "Dhaka";
+// =======
+const mygf = "Sumona akter";
+//mygf="Sumona akter 2.0";
+const myPhone = "iPhone 14 Pro Max";
+// >>>>>>> main-user-repo
